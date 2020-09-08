@@ -1,0 +1,11 @@
+.course_body{
+    display: flex  ;
+}
+.course_container{
+    width: 75%;
+    background-color: #f0eef8;
+}
+.cart_container{
+    background-color: #dddbe4;
+
+}
