@@ -46,17 +46,19 @@ const cartCalculate = cart;
 
 useEffect(() =>{
     const cartItem = JSON.parse(sessionStorage.getItem('cart'));
-    const loadData = cartItem.map(cartPd => {
-        let cartItem;
-            for (let i = 0; i < subjects.length; i++) {
-                const element = subjects[i];
-                if(element.id === cartPd.id){
-                    cartItem = element
-                }
-            };
-        return cartItem;
-    });
-    setCart(loadData);
+    if(cartItem){
+        const loadData = cartItem.map(cartPd => {
+            let cartItem;
+                for (let i = 0; i < subjects.length; i++) {
+                    const element = subjects[i];
+                    if(element.id === cartPd.id){
+                        cartItem = element
+                    }
+                };
+            return cartItem;
+        });
+        setCart(loadData); 
+    }
 },[subjects]);
 
 return (
