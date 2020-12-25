@@ -9,7 +9,7 @@
     "course_name": "Data Science",
     "price": 364,
     "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-    "image": "https://iili.io/2dmd1S.jpg"
+    "image": "https://i.ibb.co/F6gZmfp/data-science.jpg"
   }, {
     "id": "03",
     "course_name": "Mathematics",
@@ -21,7 +21,7 @@
     "course_name": "Engineering",
     "price": 331,
     "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-    "image": "https://iili.io/2dm9Ll.jpg"
+    "image": "https://www.imeche.org/images/default-source/learning-and-professional-development-images/leading-the-team_small.jpgffffff"
   }, {
     "id": "05",
     "course_name": "Astronomy",
@@ -57,19 +57,19 @@
     "course_name": "Language",
     "price": 244,
     "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-    "image": "https://iili.io/2dmF29.jpg"
+    "image": "https://i.ibb.co/hFXg3PQ/language-1.jpg"
   }, {
     "id": "11",
     "course_name": "Humanities",
     "price": 354,
     "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-    "image": "https://iili.io/2dbpIf.jpg"
+    "image": "https://i.ibb.co/vY7j7tb/humanitis-1.jpg"
   }, {
     "id": "12",
     "course_name": "Business",
     "price": 257,
     "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-    "image": "https://iili.io/2dmJB2.jpg"
+    "image": "https://i.ibb.co/TBN4kGk/busniess-2.jpg"
   }, {
     "id": "13",
     "course_name": "History",
@@ -87,5 +87,5 @@
     "course_name": "Philosophy",
     "price": 254,
     "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-    "image": "https://iili.io/2dpyf2.jpg"
+    "image": "https://i.ibb.co/NtvDRT8/Philosophy-1.jpg"
   }]

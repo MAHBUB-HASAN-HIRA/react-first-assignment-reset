@@ -12,22 +12,29 @@
 .header h1{
     font-weight: 600;
 }
+.input_container{
+    position: relative;
+}
 .search_input{
-    width: 18%;
-    height: 36px;
+    position: relative;
+    width: 20%;
+    height: 35px;
     border: none;
     border-radius: 50px;
-    padding-left: 10px;
-    padding-right: 55px;
+    padding-left: 8px;
 }
 .search_input:focus{
     background-color: rgb(229, 250, 229);
     border: none;
 }
-.search_icon{
+
+.input_container .search_icon{
+    padding-left: 20px;
+    padding-right: 20px;
     border-radius: 50px;
+    left:55%;
+    right:50%;
     position: absolute;
-    left: 750px;
     border: none;
 }
 .search_icon:hover{
@@ -39,3 +46,8 @@
     margin-top: 30px;
 }
 
+@media only screen and (max-width: 600px) {
+    .search_input{
+        width: 40%;
+    }
+  }
